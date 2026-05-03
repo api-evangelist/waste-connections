@@ -1,0 +1,101 @@
+vocabulary:
+  name: Waste Connections Vocabulary
+  description: >-
+    Domain vocabulary for Waste Connections, the third-largest integrated solid
+    waste services provider in North America. Covers waste collection, disposal,
+    recycling, and sustainability operations terminology.
+  version: '1.0'
+  created: '2026-05-03'
+  modified: '2026-05-03'
+  tags:
+    - Environmental Services
+    - Fortune 500
+    - Solid Waste
+    - Sustainability
+  terms:
+    - term: Solid Waste
+      definition: >-
+        Non-hazardous discarded materials from residential, commercial, and
+        industrial sources that require collection, transfer, and disposal.
+        Waste Connections specializes in non-hazardous solid waste services
+        across North America.
+      tags:
+        - Core Concept
+    - term: Exclusive Market
+      definition: >-
+        A geographic service area where Waste Connections holds an exclusive
+        contract or franchise agreement with a municipality or county to provide
+        waste collection services. Exclusive markets are a primary business
+        strategy differentiating Waste Connections from competitors.
+      tags:
+        - Business Model
+        - Market
+    - term: Secondary Market
+      definition: >-
+        A service area where competition exists but market dynamics are less
+        intense than major urban markets. Waste Connections targets secondary
+        markets alongside exclusive markets to minimize price competition.
+      tags:
+        - Business Model
+        - Market
+    - term: Transfer Station
+      definition: >-
+        A facility where waste collected from residential and commercial
+        customers is consolidated and loaded onto larger vehicles for
+        transport to disposal or recycling facilities. Transfer stations
+        improve collection efficiency over long haul distances.
+      tags:
+        - Facility
+        - Operations
+    - term: Landfill
+      definition: >-
+        A disposal facility where non-recyclable solid waste is deposited and
+        managed to minimize environmental impact. Waste Connections operates
+        owned and operated landfills that also capture landfill gas for
+        renewable energy generation.
+      tags:
+        - Facility
+        - Disposal
+    - term: Recycling
+      definition: >-
+        The process of collecting, sorting, and processing materials such as
+        paper, cardboard, glass, metals, and plastics to be remanufactured
+        into new products. Waste Connections offers residential and commercial
+        recycling collection services.
+      tags:
+        - Sustainability
+        - Resource Recovery
+    - term: MRF (Materials Recovery Facility)
+      definition: >-
+        A facility that receives, separates, and prepares recyclable materials
+        for sale to end markets. MRFs process co-mingled recyclables from
+        curbside collection programs.
+      tags:
+        - Facility
+        - Recycling
+    - term: Landfill Gas
+      definition: >-
+        Methane and other gases produced by decomposing organic waste in
+        landfills. Waste Connections captures landfill gas for conversion to
+        renewable natural gas (RNG) or electricity, supporting sustainability
+        goals.
+      tags:
+        - Renewable Energy
+        - Sustainability
+    - term: Dynamic Routing
+      definition: >-
+        AI-powered optimization of waste collection vehicle routes in
+        real-time based on traffic, service completion data, and operational
+        conditions. Waste Connections is investing in dynamic routing
+        technology to improve collection efficiency.
+      tags:
+        - Technology
+        - Operations
+    - term: Service Interruption
+      definition: >-
+        A temporary suspension of waste collection service due to weather
+        conditions, holidays, operational issues, or other factors. Customers
+        can view service interruption notices via the MyAccount portal.
+      tags:
+        - Customer Service
+        - Operations
