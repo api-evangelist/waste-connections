@@ -48,7 +48,7 @@ common:
     url: https://investors.wasteconnections.com/
   - type: Vocabulary
     url: vocabulary/waste-connections-vocabulary.yml
-  - type: JSON-LD
+  - type: JSONLD
     url: json-ld/waste-connections-context.jsonld
 maintainers:
   - FN: Kin Lane
