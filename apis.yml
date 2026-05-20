@@ -40,6 +40,8 @@ apis:
       - Account Management
       - Billing
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/waste-connections
   - type: Website
     url: https://www.wasteconnections.com
   - type: Portal
