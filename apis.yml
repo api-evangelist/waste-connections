@@ -9,7 +9,7 @@ description: >-
   Waste Connections is investing in AI-powered dynamic routing and expanding
   customer connectivity features through its online customer portal.
 url: https://www.wasteconnections.com
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Environmental Services
   - Fortune 500
@@ -31,7 +31,7 @@ apis:
       can view and pay invoices, update account information, and manage
       recycling and garbage pickup schedules.
     humanURL: https://myaccount.wasteconnections.com/
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     properties:
       - type: Portal
         url: https://myaccount.wasteconnections.com/
