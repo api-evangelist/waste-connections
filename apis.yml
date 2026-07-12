@@ -40,6 +40,8 @@ apis:
       - Account Management
       - Billing
 common:
+  - type: DomainSecurity
+    url: security/waste-connections-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/waste-connections
   - type: Website
