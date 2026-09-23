@@ -1,7 +1,9 @@
 ---
 title: WASTE CONNECTIONS REPORTS SECOND QUARTER ...
 url: https://www.newswire.ca/news-releases/waste-connections-reports-second-quarter-2025-results-and-updates-full-year-outlook-842198739.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Waste Connections" press release artificial intelligence'
 position: 4
 source: serpapi-google

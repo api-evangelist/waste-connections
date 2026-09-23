@@ -1,7 +1,9 @@
 ---
 title: Waste Connections Q4 Earnings
 url: https://www.waste360.com/industry-insights/waste-connections-q4-earnings-highlight-pricing-strength-acquisition-growth-and-expanded-ai-strategy
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Waste Connections" press release artificial intelligence'
 position: 2
 source: serpapi-google
