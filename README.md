@@ -64,46 +64,113 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Waste Connections is the third-largest integrated provider of solid waste services in North America, serving approximately nine million residential, commercial, and industrial customers across 46 U.S. states and six Canadian provinces. The company provides non-hazardous waste collection, transfer, disposal, and recycling services, primarily in exclusive and secondary markets. Waste Connections is investing in AI-powered dynamic routing and expanding customer connectivity features.
+Waste Connections is the third-largest integrated provider of solid waste services in North America, serving approximately nine million residential, commercial, and industrial customers across 46 U.S. states and six Canadian provinces. The company provides non-hazardous waste collection, transfer, disposal, and recycling services, primarily in exclusive and secondary markets. Waste Connections is investing in AI-powered dynamic routing and expanding customer connectivity features through its online customer portal.
 
-**Website:** https://www.wasteconnections.com  
-**Customer Portal:** https://myaccount.wasteconnections.com/  
-**Investor Relations:** https://investors.wasteconnections.com/  
-**APIs.json:** https://raw.githubusercontent.com/api-evangelist/waste-connections/refs/heads/main/apis.yml
+**Areas:** Environmental Services · Fortune 500 · Recycling · Solid Waste · Sustainability · Waste Management
 
-## Tags
+## Waste Connections on APIs.io
 
-Environmental Services, Fortune 500, Recycling, Solid Waste, Sustainability, Waste Management
+Everything profiled for Waste Connections is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/waste-connections/](https://apis.io/providers/waste-connections/)** — or go straight to one of the APIs or properties below.
 
----
+### APIs (1)
 
-## Customer Portal
+- [Waste Connections Customer Portal](https://apis.io/apis/waste-connections/waste-connections-customer-portal/) — The Waste Connections MyAccount customer portal provides online access to account management, service scheduling, pickup notifications, billing, and payment…
 
-### Waste Connections MyAccount Portal
+### Published properties
 
-Online account management for residential and commercial customers. Provides service scheduling, pickup notifications, billing, and payment services.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Portal:** https://myaccount.wasteconnections.com/
+#### JSON-LD (1)
 
----
+Linked-data contexts for the provider's vocabulary.
 
-## Artifacts
+- [Waste Connections Context](https://apis.io/jsonld/waste-connections/waste-connections-context/)
 
-### JSON-LD Contexts
+#### Vocabulary (1)
 
-| File | Description |
-|------|-------------|
-| [json-ld/waste-connections-context.jsonld](json-ld/waste-connections-context.jsonld) | JSON-LD context for Waste Connections data vocabulary |
+The provider's domain terms, defined.
 
-### Vocabulary
+- [Waste Connections Vocabulary](https://apis.io/vocabularies/waste-connections/waste-connections-vocabulary/)
 
-| File | Description |
-|------|-------------|
-| [vocabulary/waste-connections-vocabulary.yml](vocabulary/waste-connections-vocabulary.yml) | Domain vocabulary: Solid Waste, Exclusive Market, Landfill, MRF, Dynamic Routing |
+#### Security (1)
 
----
+Authentication, trust centre, and vulnerability disclosure.
 
-## Maintainers
+- [Waste Connections Domain Security](https://apis.io/security/waste-connections/waste-connections-domain-security/)
 
-**FN:** Kin Lane  
-**Email:** kin@apievangelist.com
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Waste Connections Plans Pricing](https://apis.io/plans/waste-connections/waste-connections-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Waste Connections Rate Limits](https://apis.io/rate-limits/waste-connections/waste-connections-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Waste Connections Finops](https://apis.io/finops/waste-connections/waste-connections-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.wasteconnections.com)
+
+## API Evangelist rating
+
+**Kin Score 14.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 14.7 |
+| Contract governance | 13.6 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 5.3 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/waste-connections/](https://apis.io/providers/waste-connections/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Waste Connections: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/waste-connections/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
